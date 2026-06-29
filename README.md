@@ -1,0 +1,1 @@
+Esta es una aplicacion para la enseñanza de Git
